@@ -1,4 +1,4 @@
-html,
+/*html,
 body,
 div,
 span,
@@ -78,7 +78,7 @@ summary,
 time,
 mark,
 audio,
-video {
+video*/ * {
     margin: 0;
     padding: 0;
     border: 0;
@@ -201,7 +201,7 @@ header .btn-contato button:hover{
 /*area do main*/
 
 img{
-    width: 60em;
+    width: 6em;
 }
 
 
